@@ -1,0 +1,2 @@
+# Oracle-Fusion-Sandbox-Customization-Personalization-Project
+Comprehensive Oracle Fusion HCM Sandbox Customization project covering Appearance, Structure, User Interface Text, Page Composer, HCM Design Studio, and Expression Language (EL) implementations with real-time personalization scenarios, runtime UI modifications, conditional logic, and screenshots for enterprise-level Fusion customization.
